@@ -4,7 +4,7 @@ bio:                'Imperfectly perfect thoughts by a perfectly imperfect perfe
 description:        "Imperfectly perfect thoughts by a perfectly imperfect perfectionit"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/imperfect.jpeg'
+logo:               'assets/img/imperfect.png'
 background:         'assets/img/blurry.jpeg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
