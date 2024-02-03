@@ -1,10 +1,10 @@
 # Site
 title:              Distributed Thoughts, UnConsensed Minds
-bio:                'Imperfectly perfect thoughts by a perfectly imperfect perfectionis'
-description:        "Imperfectly perfect thoughts by a perfectly imperfect perfectionis"
+bio:                'Imperfectly perfect thoughts by a perfectly imperfect perfectionit'
+description:        "Imperfectly perfect thoughts by a perfectly imperfect perfectionit"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/sarath_barathi.jpeg'
+logo:               'assets/img/imperfect.jpeg'
 background:         'assets/img/blurry.jpeg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
