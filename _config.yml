@@ -4,8 +4,8 @@ bio:                'Some imperfectly perfect thoughts from a perfectly imperfec
 description:        "Some imperfectly perfect thoughts from a perfectly imperfect perfectionist."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/curious.png'
-background:         'assets/img/infinity.jpeg'
+logo:               'assets/img/sarath_barathi.jpeg'
+background:         'assets/img/blurry.jpeg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://beyescay.github.io/
